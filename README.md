@@ -2,9 +2,9 @@
 Crowdfunding Data Analysis project using MySQL to explore project trends, success rates, backers, and funding goals across countries and categories. Includes data cleaning, exploratory data analysis (EDA), and conversion of funding amounts to USD. Designed to extract meaningful business insights from real-world crowdfunding data.
 
 Project Overview
-Project Title: Crowdfunding Projects Analysis
-Level: Beginner to Intermediate
-Database: cf_analysis
+- Project Title: Crowdfunding Projects Analysis
+- Level: Beginner to Intermediate
+- Database: cf_analysis
 
 This project demonstrates SQL skills and techniques used by data analysts to explore, clean, and analyze real-world crowdfunding project data. The project involves creating a database, performing data cleaning, conducting exploratory data analysis, and answering key business questions using SQL.
 This project is ideal for beginners who want hands-on practice with SQL using a real business dataset.
