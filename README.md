@@ -183,7 +183,7 @@ SELECT
 FROM crowdfunding_projects;
 
 ```
-Findings
+# Findings
 
 - Project Success Trends: Success rates vary by category and country.
 - Popular Categories: Technology, Design, and Games dominate crowdfunding projects.
@@ -191,13 +191,13 @@ Findings
 - Backer Trends: Successful projects attract significantly more backers.
 - Country Insights: US, UK, and Canada lead in the number of projects and successful campaigns.
 
-Reports
+# Reports
 - Project Performance Report: Status, funding, and backers analysis.
 - Category Insights: Success rate and average funding by category.
 - Country-wise Insights: Country trends and funding performance.
 - Funding Strategy: Low, medium, high, and very high goal segmentation.
 
-Conclusion
+# Conclusion
 
 This Crowdfunding Analysis SQL Project provides hands-on learning experience in SQL, covering database setup, data cleaning, exploratory data analysis, and business-driven queries. The insights derived help understand project success factors, funding patterns, category performance, and country trends—making it highly relevant for real-world data analyst roles.
 
